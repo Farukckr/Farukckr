@@ -1,60 +1,113 @@
-# Hi, I'm Muhammed Faruk Cakar
+<h1 align="center">Muhammed Faruk Cakar</h1>
 
-Computer Engineering graduate candidate at METU NCC, expected to graduate in June 2026. I focus on full-stack web, mobile, and AI-integrated software, building practical systems end to end: backend APIs, responsive interfaces, mobile flows, dashboards, automation pipelines, and ML-assisted features.
+<p align="center">
+  <strong>Software Engineer | Full-Stack, Mobile and AI-Focused Developer</strong>
+</p>
 
-## What I Work With
+<p align="center">
+  Computer Engineering graduate candidate at METU NCC, expected to graduate in June 2026.
+</p>
 
-**Languages:** Python, Java, TypeScript, JavaScript, C/C++, SQL  
-**Frontend and Mobile:** React, Next.js, React Native, Tailwind CSS  
-**Backend:** Django, Spring Boot, Node.js  
-**Databases:** PostgreSQL, MySQL, MSSQL, SQLite, Supabase  
-**AI and Automation:** Computer Vision, NLP, TTS, ML integration  
-**Tools:** Git, Linux, CI/CD, VS Code, IntelliJ, Godot Engine
+<p align="center">
+  <a href="https://www.linkedin.com/in/faruk-cakar">
+    <img src="https://img.shields.io/badge/LinkedIn-Faruk%20Cakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:cakar.muhammed@metu.edu.tr">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Farukckr">
+    <img src="https://img.shields.io/badge/GitHub-Farukckr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-## Featured Work
+---
+
+## About Me
+
+I build practical full-stack systems across web, mobile, backend APIs, dashboards, and AI-assisted workflows. My work focuses on maintainable product features, secure role-based systems, clean user flows, and data-driven software.
+
+- Full-stack development with React, Next.js, React Native, Django, and Node.js
+- Mobile development with Expo and React Native
+- Backend APIs with Django REST Framework, Spring Boot, and Node.js
+- AI-focused projects involving computer vision, NLP, TTS, and ML integrations
+- Experience building inventory, service, dashboard, automation, and analysis systems
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend and Mobile
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend, Data and AI
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+## Featured Projects
 
 ### BekoSIRS - Smart Inventory Intelligence
 
-Full-stack web and mobile inventory intelligence platform with stock forecasting support.
+Full-stack inventory, delivery, and recommendation system with web, mobile, backend, and ML modules.
 
-- Built with React, React Native, Django, Supabase, and ML components
-- Includes web and mobile workflows for inventory visibility
-- Senior capstone project with IEEE-style test planning and automation
+- React + TypeScript admin panel
+- Expo React Native mobile app
+- Django REST API with JWT authentication and role-based permissions
+- ML-assisted stock intelligence, recommendation, and forecasting workflows
 
-Repositories:
+[Repository](https://github.com/Farukckr/BekoSIRS)
 
-- [BekoSIRS](https://github.com/Farukckr/BekoSIRS)
-- [BekoSIRS API](https://github.com/Farukckr/BekoSIRS_api)
+### BenKimim - AI-Assisted Face Analysis App
+
+Full-stack face analysis application with React, Flask, DeepFace, OpenCV, and Supabase.
+
+- Image upload and analysis workflow
+- Python Flask backend for model-driven analysis
+- Supabase authentication and profile management
+- Portfolio-ready frontend/backend architecture
+
+[Repository](https://github.com/Farukckr/BenKimim)
 
 ### OtoAi - AI Content Automation Bot
 
-AI automation pipeline for generating and publishing social media video content.
+Automation pipeline concept for generating and publishing social media video content.
 
-- Uses Python, API integrations, NLP, and TTS
-- Designed to reduce manual content production work
-- Includes automated generation and publishing flow concepts
+- Python-based automation flow
+- API integrations for publishing workflows
+- NLP and TTS-assisted content generation
 
-### BenKimim - Face Recognition App
-
-Full-stack web application for facial recognition and demographic analysis on uploaded images.
-
-- Built with React, Node.js, Supabase, and computer vision tools
-- Focused on real-time image processing and clean user flow
-
-### EvoClick - Strategy Clicker Game
-
-Interactive simulation game focused on reaction-time mechanics and progression design.
-
-- Built with Godot Engine v4 and GDScript
-- Designed and shipped as a playable strategy/clicker experience
+---
 
 ## Experience
 
 **Software Engineering Intern - Chip Computer**  
-Built a technical service management system with Next.js, React, Tailwind CSS, TypeScript, and SQLite. The system replaced paper-based workflows and included real-time tracking and revenue monitoring dashboards.
+Built a technical service management system with Next.js, React, Tailwind CSS, TypeScript, and SQLite. The system replaced paper-based workflows and included tracking and revenue monitoring dashboards.
 
 **Software Engineering Intern - Arcelik & LG**  
-Developed a barcode-based stock and inventory management system with Python, Tkinter, PyODBC, and MySQL/MSSQL. Implemented role-based authentication, audit logging, and operational reports by date, product, and user.
+Developed a barcode-based stock and inventory management system with Python, Tkinter, PyODBC, and MySQL/MSSQL. Implemented role-based authentication, audit logging, and operational reports.
+
+---
 
 ## Current Focus
 
@@ -62,9 +115,3 @@ Developed a barcode-based stock and inventory management system with Python, Tki
 - React, Next.js, and React Native applications
 - AI-assisted automation and computer vision projects
 - Clean system design, testing, and maintainable codebases
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/faruk-cakar](https://www.linkedin.com/in/faruk-cakar)
-- GitHub: [github.com/Farukckr](https://github.com/Farukckr)
-- Email: [cakar.muhammed@metu.edu.tr](mailto:cakar.muhammed@metu.edu.tr)
