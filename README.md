@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/faruk-cakar">
+  <a href="https://www.linkedin.com/in/faruk-cakar-26073521b">
     <img src="https://img.shields.io/badge/LinkedIn-Faruk%20Cakar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cakar.muhammed@metu.edu.tr">
