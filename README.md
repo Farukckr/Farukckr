@@ -1,6 +1,6 @@
 # Hi, I'm Muhammed Faruk Cakar
 
-Final-year Computer Engineering student at METU NCC, focused on full-stack web, mobile, and AI-integrated software. I build practical systems end to end: backend APIs, responsive interfaces, mobile flows, dashboards, automation pipelines, and ML-assisted features.
+Computer Engineering graduate candidate at METU NCC, expected to graduate in June 2026. I focus on full-stack web, mobile, and AI-integrated software, building practical systems end to end: backend APIs, responsive interfaces, mobile flows, dashboards, automation pipelines, and ML-assisted features.
 
 ## What I Work With
 
