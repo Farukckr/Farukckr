@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Computer Engineering graduate candidate at METU NCC, expected to graduate in June 2026.
+  Computer Engineering graduate from METU NCC.
 </p>
 
 <p align="center">
