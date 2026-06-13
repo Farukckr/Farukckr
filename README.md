@@ -97,6 +97,8 @@ Automation pipeline concept for generating and publishing social media video con
 - API integrations for publishing workflows
 - NLP and TTS-assisted content generation
 
+[Repository](https://github.com/Farukckr/otoAi)
+
 ---
 
 ## Experience
