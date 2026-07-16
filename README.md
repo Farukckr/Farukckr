@@ -26,7 +26,7 @@
 
 I build practical full-stack systems across web, mobile, backend APIs, dashboards, and AI-assisted workflows. My work focuses on maintainable product features, secure role-based systems, clean user flows, and data-driven software.
 
-- Full-stack development with React, Next.js, React Native, Django, and Node.js
+- Full-stack development with React, Next.js, React Native, Django, ASP.NET Core, and Node.js
 - Mobile development with Expo and React Native
 - Backend APIs with Django REST Framework, Spring Boot, and Node.js
 - AI-focused projects involving computer vision, NLP, TTS, and ML integrations
@@ -40,6 +40,7 @@ I build practical full-stack systems across web, mobile, backend APIs, dashboard
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -55,6 +56,9 @@ I build practical full-stack systems across web, mobile, backend APIs, dashboard
 
 ### Backend, Data and AI
 
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -63,9 +67,27 @@ I build practical full-stack systems across web, mobile, backend APIs, dashboard
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
+### DevOps and Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## Featured Projects
+
+### BorsaAnaliz - Stock Analysis & Virtual Portfolio Platform
+
+Production-deployed stock analysis web application for BIST and US markets, built with ASP.NET Core.
+
+- ASP.NET Core 8 MVC (C#) with EF Core and PostgreSQL (Supabase)
+- Live market data for 150 symbols (BIST 100 + US), candlestick charts with SMA/EMA/RSI/MACD/Bollinger indicators, and TradingView integration
+- Virtual portfolio with buy/sell simulation, cost-basis and P/L tracking, and allocation analytics
+- Gemini-powered AI technical commentary on live charts
+- Dockerized and deployed on Render with automated deploys
+
+[Repository](https://github.com/Farukckr/borsaAnaliz) · [Live Demo](https://borsa-analiz-aqr9.onrender.com)
 
 ### BekoSIRS - Smart Inventory Intelligence
 
@@ -113,7 +135,7 @@ Developed a barcode-based stock and inventory management system with Python, Tki
 
 ## Current Focus
 
-- Production-ready Django and DRF backends
+- Production-ready ASP.NET Core, Django, and DRF backends
 - React, Next.js, and React Native applications
 - AI-assisted automation and computer vision projects
 - Clean system design, testing, and maintainable codebases
